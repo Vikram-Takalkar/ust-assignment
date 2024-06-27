@@ -1,0 +1,60 @@
+{
+  "Machines": [
+    {
+      "machineName": "Line 3 Extruder",
+      "machineType": "Misaignment Motor",
+      "type": "Facility",
+      "build": "Building",
+      "status": "Danger"
+    },
+    {
+      "machineName": "Line 3 Auxiliary Extruder",
+      "machineType": "Misaignment Motor",
+      "type": "Facility",
+      "build": "Building",
+      "status": "Acceptable"
+    },
+    {
+      "machineName": "Extruder 4",
+      "machineType": "Misaignment Motor",
+      "type": "Facility",
+      "build": "Building",
+      "status": "Monitor"
+    },
+    {
+      "machineName": "Line 5 Extruder",
+      "machineType": "Misaignment Motor",
+      "type": "Facility",
+      "build": "Building",
+      "status": "Danger"
+    },
+    {
+      "machineName": "Line 6 Extruder",
+      "machineType": "Misaignment Motor",
+      "type": "Facility",
+      "build": "Building",
+      "status": "Danger"
+    },
+    {
+      "machineName": "Line 99 Extruder",
+      "machineType": "Misaignment Motor",
+      "type": "Facility",
+      "build": "Building",
+      "status": "Alarm"
+    },
+    {
+      "machineName": "Line 22 Extruder",
+      "machineType": "Misaignment Motor",
+      "type": "Facility",
+      "build": "Building",
+      "status": ""
+    },
+    {
+      "machineName": "Line 32 Extruder",
+      "machineType": "Misaignment Motor",
+      "type": "Facility",
+      "build": "Building",
+      "status": "Alarm"
+    }
+  ]
+}
